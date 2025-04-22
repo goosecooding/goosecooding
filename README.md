@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @goosecooding
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning javascript
+- ⚡ Fun fact: i dont study on any university but i love coding and i have some skills 
